@@ -1,3 +1,10 @@
 title: About me
-date: 2014-01-18 17:43:23
+date: 2015-02-14 16:52:23
 ---
+
+- nickname:   Skyblue
+- email:      skyblue.null AT gmail
+- 互联网行业
+- 专业打杂
+
+
